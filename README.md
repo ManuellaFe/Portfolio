@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Motivaction
+- 👋 Hi, I’m @Manuella Feujio
 - 👀 I’m interested in Data Analysis
 - 🌱 Experienced using Excel , SQL, Power BI, Tableau and l’m currently learning Python
 - 💞️ I’m looking for Data Analyst job and open to collaborate on any projects in data analytics
