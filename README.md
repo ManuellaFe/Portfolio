@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @ManuellaFe
+- 👀 I’m interested in Data Analysis
+- 🌱 Experienced using Excel , SQL, Power BI, Tableau and l’m currently learning Python
+- 💞️ I’m looking for Data Analyst job and open to collaborate on any projects in data analytics
+- 📫 How to reach me: manuella.feujio@yahoo.com
+
+<!---
+ManuellaFe/ManuellaFe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
