@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manuella Feujio
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Analytics and Controlling
 - 🌱 Experienced using Excel , SQL, Power BI, Tableau and l’m currently learning Python
 - 💞️ I’m looking for Data Analyst job and open to collaborate on any projects in data analytics
 - 📫 How to reach me: manuella.feujio@yahoo.com
